@@ -1,1 +1,1 @@
-# Food-app-web-design
+The Food App web design created in Figma features a user-friendly interface with a clean, modern layout. It includes sections for browsing menus, placing orders, and viewing restaurant details. The design emphasizes easy navigation and attractive visuals to enhance the user experience. Interactive elements like search bars and filter options are strategically placed to streamline the ordering process.
